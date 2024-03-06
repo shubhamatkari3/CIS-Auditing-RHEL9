@@ -1,4 +1,4 @@
-# CIS-Hardening
+# CIS-Auditing-RHEL9
 
 **Steps to initialize the audit:**
 
